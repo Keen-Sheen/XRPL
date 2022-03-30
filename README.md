@@ -4,7 +4,7 @@
 
 
 ## The XRP Ledger (XRPL) is a decentralized public blockchain & a public good
-It’s fast, energy efficient, and reliable. With ease of development, low transaction costs, and a knowledgeable community, it provides developers with a strong open-source foundation for executing on the most demanding projects—without hurting the environment. Here are some of the XRPL features:
+The XRP Ledger is fast, energy efficient, and reliable. With ease of development, low transaction costs, and a knowledgeable community, it provides developers with a strong open-source foundation for executing on the most demanding projects—without hurting the environment. Here are some of the XRPL features:
 
 * Public and Decentralized Structure
 * Streamlined Development
