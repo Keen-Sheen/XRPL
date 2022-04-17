@@ -1,2 +1,2 @@
 
-![xrpl_payment](xrpl_payment.png)
+![xrpl_payment](xrl_transaction.png)
