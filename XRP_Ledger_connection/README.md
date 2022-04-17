@@ -11,3 +11,4 @@ In order to interact with the XRP Ledger I had to import `import nest_asyncio`, 
 ## Wallet Creation
 
 ![Wallet Creation](xrpl_wallet.png)
+----------------
