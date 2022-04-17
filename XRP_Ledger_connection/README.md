@@ -22,6 +22,6 @@ Next I create a wallet using the testnet faucet to be ready to fund the wallet t
 ## Key Pairs
 After connecting to the XRPL I then used the xrpl.core.keypairs module to generate seeds and derive keypairs and addresses from those seed values
 
-![Wallet Creation](xrpl_wallet.png)
+![Wallet Creation](xrpl_testnet_faucet.png)
 
 ----------------
