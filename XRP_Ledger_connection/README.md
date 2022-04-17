@@ -17,7 +17,7 @@ In order to interact with the XRP Ledger I had to import `import nest_asyncio`, 
 
 Next I create a wallet using the testnet faucet to be ready to fund the wallet to be able to send and recieve transactions.
 
-![XRP Wallet](xrpl_wallet.png)
+![XRP Wallet](xrp_wallet.png)
 
 ## Key Pairs
 After connecting to the XRPL I then used the xrpl.core.keypairs module to generate seeds and derive keypairs and addresses from those seed values
