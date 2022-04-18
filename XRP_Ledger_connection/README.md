@@ -3,7 +3,13 @@
 
 ## Information
 
-This folder walks you through the basic steps of building an easy XRP Ledger-connected application using xrpl-py , a pure Python  library that makes it easy to interact with the XRP Ledger using native Python models and methods.
+This folder walks you through the basic steps of building an easy XRP Ledger-connected application using xrpl-py , a pure Python  library that makes it easy to interact with the XRP Ledger using native Python models and methods. In this folder are:
+
+* The basic building blocks of XRP Ledger-based applications.
+* How to connect to the XRP Ledger using xrpl-py.
+* How to generate a wallet on the Testnet using xrpl-py.
+* How to use the xrpl-py library to look up information about an account on the XRP Ledger.
+* How to put these steps together to create a simple Python app.
 
 -----------------
 
