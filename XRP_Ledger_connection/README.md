@@ -21,7 +21,7 @@ In order to interact with the XRP Ledger I had to import `import nest_asyncio`, 
 
 ## Wallet Creation & Key Pairs
 
-After connecting to the XRPL I then used the xrpl.core.keypairs module to generate seeds and derive keypairs and addresses from those seed values
+After connecting to the XRPL I then used the `xrpl.core.keypairs` module to generate seeds and derive keypairs and addresses from those seed values
 
 ![XRP Wallet](xrpl_wallet.png)
 
