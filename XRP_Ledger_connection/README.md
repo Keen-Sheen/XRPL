@@ -40,7 +40,7 @@ Next I create a wallet using the testnet faucet to be ready to fund the wallet t
 
 I queried details about the generated account from the XRP Ledger, but you can use the values in the Wallet instance to prepare, sign, and submit transactions with xrpl-py. You can query the XRP Ledger to get information about a specific account, a specific transaction, the state of a current or a historical ledger, and the XRP Ledger's decentralized exchange. You have to make these queries, among other reasons, to look up account info to follow best practices for reliable transaction submission.
 
-![XRPL Query](xrpl_ledger_update.png)
+![XRPL Query](xrpl_ledger_updates.png)
 
 -----------------
 
