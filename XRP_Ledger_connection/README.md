@@ -48,7 +48,7 @@ Using these building blocks, I was able to create a simple Python app that:
 
 * Generates a wallet on the Testnet.
 * Connects to the XRP Ledger.
-* Looks up and prints information about the account you created.
+* Looks up and prints information about the account I created.
 
 ![XRPL Combination](xrpl_funding_address.png)
 
