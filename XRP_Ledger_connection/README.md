@@ -19,7 +19,7 @@ In order to interact with the XRP Ledger I had to import `import nest_asyncio`, 
 
 ## Testnet Ledger Connection
 
-In order to properly run the XRP application, I had to connect to the proper [testnet servers](https://xrpl.org/xrp-testnet-faucet.html) which has `WebSocket` & `JSON` server connections. This connection allowed me to launch my application with the proper connection.
+In order to properly run the XRP application, I had to connect to the proper [testnet servers](https://xrpl.org/xrp-testnet-faucet.html) which has `WebSocket` & `JSON` server connections. This debugging allowed me to launch my application with the proper connection.
 
 ----------------
 
