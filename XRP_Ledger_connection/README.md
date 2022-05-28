@@ -17,6 +17,10 @@ This folder walks you through the basic steps of building an easy XRP Ledger-con
 
 In order to interact with the XRP Ledger I had to import `import nest_asyncio`, this allowed me to interact with the XRP Ledger and be able to build out a wallet to interact with the XRPL.
 
+## Testnet Ledger Connection
+
+In order to properly run the XRP application, I had to connect to the proper [testnet servers](https://xrpl.org/xrp-testnet-faucet.html) which has WebSocket & JSON server connections. This connection allowed me to launch my application with the proper connection.
+
 ----------------
 
 ## Wallet Creation & Key Pairs
