@@ -1,4 +1,4 @@
-# XRPL Fundgabl Token Creation
+# XRPL Fundgable Token Creation
 
 ![An Image of XRPL Token](XRPL_Token.jpg)
 
