@@ -4,7 +4,7 @@
 
 
 
-This project is entails the creation of both hot & cold wallets to ensure best practice for launching a fundgable token/trustline on the XRPL. The cold wallet is the initial issuer of the token, the hot wallet is used as a user facing so one can transact publicly. The token created is called the XDA token. The Total Supply is 9,000,000
+This project is entails the creation of both hot & cold wallets to ensure best practice for launching a fundgable token/trustline on the XRPL. The cold wallet is the initial issuer of the token, the hot wallet is used as a user facing so one can transact publicly. The token created is called the XDA token. The Total Supply is 9,000,000 & a total of 500,000 of XDA is sent to 
 
 ## Step-by-Step Creation
 
