@@ -23,3 +23,5 @@ This repository focuses on the XRP Ledger and interacting with its functionaltie
 * Wallet creation
 * Transactions on the XRPL
 * Running a XRPL Validator
+* Creating Testnet Tokens
+* Creating NFT's
