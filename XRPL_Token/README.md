@@ -9,7 +9,7 @@ This project  entails the creation of both hot & cold wallets to ensure best pra
 ## Step-by-Step Creation
 
 * Get Credentials
-*Connect to the XRPL Testnet
+* Connect to the XRPL Testnet
 * Configure Issuer Settings
 * Make Hot Wallet Address
 * Create Trust Line from Hot to Cold Address
